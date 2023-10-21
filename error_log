@@ -1,0 +1,212 @@
+[02-Aug-2023 18:56:32 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Aug-2023 18:56:42 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Aug-2023 18:56:45 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[05-Aug-2023 05:46:02 America/New_York] PHP Fatal error:  Uncaught Exception: Could not resolve host: cdn.hostedfiles.net in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[05-Aug-2023 05:46:02 America/New_York] PHP Fatal error:  Uncaught Exception: Could not resolve host: cdn.hostedfiles.net in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Aug-2023 01:43:07 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Aug-2023 01:43:35 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Aug-2023 01:45:30 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Aug-2023 01:45:36 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Aug-2023 01:49:31 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Aug-2023 08:58:42 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:28 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:30 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:31 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:31 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:32 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:32 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:32 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:32 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:32 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:32 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:36 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:40 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:41 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:37:44 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:38:00 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:38:00 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:45:42 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[16-Aug-2023 12:45:42 America/New_York] PHP Fatal error:  Uncaught Exception in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[20-Aug-2023 03:21:14 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[20-Aug-2023 03:23:43 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[20-Aug-2023 03:27:26 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[20-Aug-2023 04:03:03 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[20-Aug-2023 14:40:24 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[06-Sep-2023 17:46:43 America/New_York] PHP Fatal error:  Uncaught Exception: Failed to connect to hostedfiles.net port 443 after 7206 ms: Couldn't connect to server in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[13-Sep-2023 07:20:44 America/New_York] PHP Fatal error:  Uncaught Exception: Failed to connect to hostedfiles.net port 443 after 7207 ms: Couldn't connect to server in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:23:57 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:23:57 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:23:57 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:23:58 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:23:58 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:24:00 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:24:04 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:24:05 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[02-Oct-2023 05:24:12 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[08-Oct-2023 05:34:36 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[08-Oct-2023 05:34:45 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[08-Oct-2023 05:35:16 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[08-Oct-2023 21:12:57 America/New_York] PHP Fatal error:  Uncaught Exception: Failed to connect to hostedfiles.net port 443 after 7248 ms: Couldn't connect to server in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[10-Oct-2023 21:25:52 America/New_York] PHP Fatal error:  Uncaught Exception: HTTP/2 stream 1 was not closed cleanly before end of the underlying stream in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[15-Oct-2023 08:38:46 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[15-Oct-2023 08:39:41 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
+[15-Oct-2023 08:41:02 America/New_York] PHP Fatal error:  Uncaught Exception: The redirect target URL could not be parsed: Unsupported URL scheme in /home/marsfoou/public_html/apple/og.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/marsfoou/public_html/apple/og.php on line 107
